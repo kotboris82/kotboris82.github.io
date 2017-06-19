@@ -169,7 +169,7 @@ just for appearance; change whatever you want
     width: 100%;
 }
 .percentage {
-    background: rgba(0, 0, 0, 0) url("/img/violet1.jpg") no-repeat scroll 0 0 / cover ;
+    background: rgba(0, 0, 0, 0) url("../img/violet1.jpg") no-repeat scroll 0 0 / cover ;
     color: #ffffff;
     position: relative;
 }
@@ -184,7 +184,7 @@ just for appearance; change whatever you want
     width: 100%;
 }
 .calculate {
-    background: rgba(0, 0, 0, 0) url("/img/calc_bg.jpg") no-repeat scroll 0 0 / cover ;
+    background: rgba(0, 0, 0, 0) url("../img/calc_bg.jpg") no-repeat scroll 0 0 / cover ;
     position: relative;
 }
 
@@ -233,7 +233,7 @@ just for appearance; change whatever you want
 }
 /*Обратная связь*/
 #feedback {
-    background: url('/img/feedback.jpg');
+    background: url('../img/feedback.jpg');
 }
 
 /*Контакты*/
